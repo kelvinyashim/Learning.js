@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<input type="text" id="value" value="18">
+<input type="text" id="age" value="18">
 <button type="button" onclick="myFunction()"> Check Age</button>
 
 <p id="demo"></p>
